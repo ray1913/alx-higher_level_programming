@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-This rep will be used for python projects with ALX
+
+This rep is for python projects with ALX
